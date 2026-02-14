@@ -29,7 +29,7 @@ AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32558)] [[c
 
 
 **OpenPSG: Open-set Panoptic Scene Graph Generation via Large Multimodal Models**
-arXiv 2025. [[paper](https://arxiv.org/abs/2503.09551)] [[code](https://github.com/Jingkang50/OpenPSG)]
+ECCV 2024 / arXiv 2024. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72684-2_12)] [[arXiv](https://arxiv.org/abs/2407.11213)] [[code](https://github.com/franciszzj/OpenPSG)]
 
 
 **Relation-Aware Hallucination Prevention for Open-Vocabulary Scene Graph Generation**
@@ -71,7 +71,7 @@ arXiv 2025. [[paper](https://arxiv.org/abs/2505.23628)] [[code](https://github.c
 
 
 **Automated Knowledge Graph Construction using Large Language Models and Sentence Complexity Modelling**
-arXiv 2025 (EMNLP 2025-related submission version; see repository naming). [[paper](https://arxiv.org/abs/2509.17289)] [[code](https://github.com/KaushikMahmud/CoDe-KG_EMNLP_2025)]
+EMNLP 2025 / arXiv 2025. [[paper](https://aclanthology.org/2025.emnlp-main.783/)] [[arXiv](https://arxiv.org/abs/2509.17289)] [[code](https://github.com/KaushikMahmud/CoDe-KG_EMNLP_2025)]
 
 
 **Domain-Specific Knowledge Graph Construction via LLM-driven Knowledge Dependency Parsing**
@@ -95,7 +95,7 @@ ACL 2025. [[paper](https://aclanthology.org/2025.acl-long.907/)] [[code](https:/
 
 
 **Docs2KG: Unified Knowledge Graph Construction from Heterogeneous Documents Assisted by Large Language Models**
-arXiv 2024. [[paper](https://arxiv.org/abs/2406.02962)] [[code](https://github.com/AI4WA/Docs2KG)]
+WWW Companion 2025 / arXiv 2024. [[paper](https://dl.acm.org/doi/10.1145/3701716.3715309)] [[arXiv](https://arxiv.org/abs/2406.02962)] [[code](https://github.com/AI4WA/Docs2KG)]
 
 
 **Extract, Define, Canonicalize: An LLM-based Framework for Knowledge Graph Construction**
@@ -121,7 +121,7 @@ EMNLP 2025. [[paper](https://aclanthology.org/2025.emnlp-main.554/)] [[code](htt
 
 
 **Graphusion: A RAG Framework for Scientific Knowledge Graph Construction with a Global Perspective**
-The Web Conference (WWW) 2025 / arXiv 2024. [[paper](https://arxiv.org/abs/2410.17600)] [[code](https://github.com/IreneZihuiLi/Graphusion)]
+WWW Companion 2025 / arXiv 2024. [[paper](https://dl.acm.org/doi/10.1145/3701716.3717821)] [[arXiv](https://arxiv.org/abs/2410.17600)] [[code](https://github.com/IreneZihuiLi/Graphusion)]
 
 
 **Prompting with Iterative Verification: Improving Graph-based Generative Capability of LLMs**
@@ -182,7 +182,7 @@ arXiv 2025. [[paper](https://arxiv.org/abs/2504.00711)] [[code](https://github.c
 
 
 **KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment**
-arXiv 2025. [[paper](https://arxiv.org/abs/2502.06472v1)] [[code](GitHub - YuxingLu613/KARMA: Leveraging Multi-Agent LLMs for Automated Knowledge Graph Enrichment)]
+NeurIPS 2025 / arXiv 2025. [[paper](https://neurips.cc/virtual/2025/poster/116417)] [[arXiv](https://arxiv.org/abs/2502.06472)] [[code](https://github.com/YuxingLu613/KARMA)]
 
 
 **AutoGraph: Autonomous Graph Construction from Textual Documents via LLM-Driven Multi-Agent Collaboration**
