@@ -7,18 +7,20 @@
 
 ## Contents
 
-+ [A. Multimodal Visual Graph Generation (Scene Graph / Panoptic)](#a-multimodal-visual-graph-generation-scene-graph-panoptic)
-+ [B. Molecular Graph Generation (Text-guided Molecules)](#b-molecular-graph-generation-text-guided-molecules)
-+ [C. LLM Graph Generation Capability (Exploration / Benchmarking)](#c-llm-graph-generation-capability-exploration-benchmarking)
-+ [D. Knowledge Graph Construction (Text/Web/Docs → KG)](#d-knowledge-graph-construction-textwebdocs-kg)
-+ [E. Reliability & Quality Control (RAG / Judge / Verification)](#e-reliability-quality-control-rag-judge-verification)
-+ [F. Graph-centric LLM Augmentation (Tools / Instruction / Alignment)](#f-graph-centric-llm-augmentation-tools-instruction-alignment)
-+ [G. Temporal Reasoning & Evolving Knowledge Graphs](#g-temporal-reasoning-evolving-knowledge-graphs)
-+ [H. Causal Graph Discovery](#h-causal-graph-discovery)
-+ [I. Agentic Graph Construction & Enrichment](#i-agentic-graph-construction-enrichment)
-+ [J. Agentic Graph Applications (Analysis / QA / World Models / Evaluation)](#j-agentic-graph-applications-analysis-qa-world-models-evaluation)
-+ [K. Social Graph for Social Simulation](#k-social-graph-for-social-simulation)
-+ [L. Multi-agent Systems as Graph Generative Models](#l-multi-agent-systems-as-graph-generative-models)
++ [A. Multimodal Visual Graph Generation (Scene Graph / Panoptic)](#section-a)
++ [B. Molecular Graph Generation (Text-guided Molecules)](#section-b)
++ [C. LLM Graph Generation Capability (Exploration / Benchmarking)](#section-c)
++ [D. Knowledge Graph Construction (Text/Web/Docs → KG)](#section-d)
++ [E. Reliability & Quality Control (RAG / Judge / Verification)](#section-e)
++ [F. Graph-centric LLM Augmentation (Tools / Instruction / Alignment)](#section-f)
++ [G. Temporal Reasoning & Evolving Knowledge Graphs](#section-g)
++ [H. Causal Graph Discovery](#section-h)
++ [I. Agentic Graph Construction & Enrichment](#section-i)
++ [J. Agentic Graph Applications (Analysis / QA / World Models / Evaluation)](#section-j)
++ [K. Social Graph for Social Simulation](#section-k)
++ [L. Multi-agent Systems as Graph Generative Models](#section-l)
+
+<a id="section-a"></a>
 
 ## A. Multimodal Visual Graph Generation (Scene Graph / Panoptic)
 
@@ -44,6 +46,8 @@ CVPR 2025. [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Peng_Tex
 
 
 
+<a id="section-b"></a>
+
 ## B. Molecular Graph Generation (Text-guided Molecules)
 
 **Text-Guided Molecule Generation with Diffusion Language Model**
@@ -52,6 +56,8 @@ AAAI 2025. [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32833)] [[c
 
 
 
+
+<a id="section-c"></a>
 
 ## C. LLM Graph Generation Capability (Exploration / Benchmarking)
 
@@ -62,6 +68,8 @@ arXiv 2024. [[paper](https://arxiv.org/abs/2403.14358)]
 
 
 
+<a id="section-d"></a>
+
 ## D. Knowledge Graph Construction (Text/Web/Docs → KG)
 
 **AutoSchemaKG: Autonomous Knowledge Graph Construction through Dynamic Schema Induction from Web-Scale Corpora**
@@ -71,17 +79,17 @@ arXiv 2025. [[paper](https://arxiv.org/abs/2505.23628)] [[code](https://github.c
 
 **Automated Knowledge Graph Construction using Large Language Models and Sentence Complexity Modelling**
 *Algorithm: CoDe-KG*
-arXiv 2025（与 EMNLP 2025 相关/投稿版本见仓库命名）. [[paper](https://arxiv.org/abs/2509.17289)] [[code](https://github.com/KaushikMahmud/CoDe-KG_EMNLP_2025)]
+arXiv 2025 (EMNLP 2025-related submission version; see repository naming). [[paper](https://arxiv.org/abs/2509.17289)] [[code](https://github.com/KaushikMahmud/CoDe-KG_EMNLP_2025)]
 
 
 **Domain-Specific Knowledge Graph Construction via LLM-driven Knowledge Dependency Parsing**
 *Algorithm: LKD-KGC*
-arXiv 2025（提交版本）. [[paper](https://arxiv.org/abs/2505.24163)] [[code](https://github.com/ottoSJTU/LKD-KGC)]
+arXiv 2025. [[paper](https://arxiv.org/abs/2505.24163)] [[code](https://github.com/ottoSJTU/LKD-KGC)]
 
 
 **GKG-LLM: A Unified Framework for Generalized Knowledge Graph Construction**
 *Algorithm: GKG-LLM*
-arXiv 2025. [[paper](https://arxiv.org/abs/2503.11227)] [[code](（未检索到稳定开源仓库，TBD）)]
+arXiv 2025. [[paper](https://arxiv.org/abs/2503.11227)] [[code](TBD)]
 
 
 **Generating Domain-Specific Knowledge Graphs from Large Language Models**
@@ -121,6 +129,8 @@ ACL 2024 (Long). [[paper](https://aclanthology.org/2024.acl-long.238/)] [[code](
 
 
 
+<a id="section-e"></a>
+
 ## E. Reliability & Quality Control (RAG / Judge / Verification)
 
 **GraphJudge: Can Large Language Models be a Good Graph Judge for Knowledge Graph Construction?**
@@ -140,6 +150,8 @@ ACL 2024. [[paper](https://aclanthology.org/2024.findings-acl.400/)] [[code](htt
 
 
 
+<a id="section-f"></a>
+
 ## F. Graph-centric LLM Augmentation (Tools / Instruction / Alignment)
 
 **InstructGraph: Boosting Large Language Models via Graph-centric Instruction Tuning and Preference Alignment**
@@ -153,6 +165,8 @@ arXiv 2023. [[paper](https://arxiv.org/abs/2304.11116)] [[code](https://github.c
 
 
 
+
+<a id="section-g"></a>
 
 ## G. Temporal Reasoning & Evolving Knowledge Graphs
 
@@ -168,6 +182,8 @@ ACL 2024. [[paper](https://arxiv.org/abs/2401.06853)] [[code](https://github.com
 
 
 
+<a id="section-h"></a>
+
 ## H. Causal Graph Discovery
 
 **Large Language Models Meet Causal Discovery: An Empirical Study of Faithfulness and Markov Blanket**
@@ -176,6 +192,8 @@ arXiv 2024. [[paper](https://arxiv.org/abs/2402.01142)] [[code](https://github.c
 
 
 
+
+<a id="section-i"></a>
 
 ## I. Agentic Graph Construction & Enrichment
 
@@ -212,6 +230,8 @@ arXiv 2024. [[paper](https://arxiv.org/abs/2410.06835)] [[code](https://github.c
 
 
 
+<a id="section-j"></a>
+
 ## J. Agentic Graph Applications (Analysis / QA / World Models / Evaluation)
 
 **GraphTeam: Facilitating Large Language Model-based Graph Analysis via Multi-Agent Collaboration**
@@ -221,7 +241,7 @@ arXiv 2025. [[paper](https://arxiv.org/abs/2410.18032)]
 
 **AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents**
 *Algorithm: AriGraph*
-arXiv 2024（可能含 IJCAI 2025 版本，待核对）. [[paper](https://arxiv.org/abs/2407.04363)] [[code](https://github.com/AIRI-Institute/AriGraph)]
+IJCAI 2025. [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/7833.pdf)] [[code](https://github.com/AIRI-Institute/AriGraph)]
 
 
 **Generate-on-Graph: Treat LLM as both Agent and KG for Incomplete Knowledge Graph Question Answering**
@@ -236,6 +256,8 @@ arXiv 2024. [[paper](https://arxiv.org/abs/2411.19064)] [[code](https://github.c
 
 
 
+<a id="section-k"></a>
+
 ## K. Social Graph for Social Simulation
 
 **GRAPHIA: Harnessing Social Graph Data to Enhance LLM-Based Social Simulation**
@@ -244,6 +266,8 @@ arXiv 2025. [[paper](https://arxiv.org/abs/2510.24251)] [[code](https://github.c
 
 
 
+
+<a id="section-l"></a>
 
 ## L. Multi-agent Systems as Graph Generative Models
 
